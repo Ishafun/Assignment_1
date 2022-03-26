@@ -22,13 +22,14 @@ Starbucks’ payment project began in 2015, which made its loyalty program digit
 Customers enjoying the simplicity of getting discount and order to go and is willing to use the online app Over 10 million users in the US alone, and more than 20% of sales are done through mobile.
 As a result, Starbucks revolution on payments brewing up loyalty and efficiency, their accumulated cash flow get banks upset.
 
-![payment](https://cdn.statcdn.com/Infographic/images/normal/13933.jpeg)
+![payment](http://blogs-images.forbes.com/niallmccarthy/files/2016/08/20160801_Starbucks.jpeg)
+
+![Starbucks](http://blogs-images.forbes.com/niallmccarthy/files/2016/08/20160801_Starbucks.jpeg)
 
 Starbucks become the most-used prepaid app in the United States today– more used than Google or Apple pay.
 Also, for cash reserve, Starbucks held $1.6 billion in balances at for year 2019. Customers already use Starbucks gift cards as the next best thing to money.
 
-![Starbucks]
-(http://blogs-images.forbes.com/niallmccarthy/files/2016/08/20160801_Starbucks.jpg)
+![Starbucks]http://blogs-images.forbes.com/niallmccarthy/files/2016/08/20160801_Starbucks.jpeg
 
 ### Recommendation
 To add even more ways to payment, Starbucks can let customers pay directly with crypto currencies such as Bitcoin. Right not customers can already convert their crypto balance on PayPal to fiat currency before reloading their Starbucks apps.
