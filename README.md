@@ -10,6 +10,7 @@ Starbucks Coop is the largest and most successful coffee chains in the world.
 Starbucks sells coffee, beverage, deli, and has its own coffee supply logistic chain form local farmers world-wide to retail stores ensuring price competitiveness and quality control.
 ### Market coverage and competitors
 More than 33,800 coffeehouses in 80 countries and around 349,000? employees as of May 2021.
+
 Starbucks has dominated the coffee retail business.
 No matching competitor in terms of scale, branding power or technology advancement.
 
@@ -24,15 +25,14 @@ As a result, Starbucks revolution on payments brewing up loyalty and efficiency,
 
 ![payment](https://cdn.statcdn.com/Infographic/images/normal/13933.jpeg)
 
-![Starbucks](http://blogs-images.forbes.com/niallmccarthy/files/2016/08/20160801_Starbucks.jpg)
-
 Starbucks become the most-used prepaid app in the United States today– more used than Google or Apple pay.
 Also, for cash reserve, Starbucks held $1.6 billion in balances at for year 2019. Customers already use Starbucks gift cards as the next best thing to money.
 
-![Starbucks](http://blogs-images.forbes.com/niallmccarthy/files/2016/08/20160801_Starbucks.jpeg)
+![Starbucks](https://www.caffesociety.co.uk/blog/wp-content/upLoads/2016/07/Starbucks-loyalty-card-scheme.jpg)
 
 ### Recommendation
 To add even more ways to payment, Starbucks can let customers pay directly with crypto currencies such as Bitcoin. Right not customers can already convert their crypto balance on PayPal to fiat currency before reloading their Starbucks apps.
+![Cryptocurrency](https://blockonomi-9fcd.kxcdn.com/wp-content/uploads/2020/03/bakkt-770x515.jpg)
 
 ## Block Chain implementation on Supply Chain
 ### Block Chain on Supply Chain in general
@@ -43,7 +43,15 @@ In 2019. Starbucks announced its ‘bean to cup’ program, using Microsoft’s 
 The program involves creates a transparent electronic ledger over which supply chain participants can input transactional data.
 Combined with a user interface and mobile application, the technology will allow Starbucks customers to trace the journey of coffee beans from the time a grower packages them to the time they hit the coffee chain's counters.
 The mobile app will show customers information about where their packaged coffee comes from, where it was grown and what Starbucks is doing to support farmers in those locations. It will also include where and when the coffee was roasted, associated tasting notes and other details
+
+![Starbucks_supply_chain](https://www.softwareadvice.com/resources/wp-content/uploads/coffee-blockchain-example.png)
+
 ### Benefit on block chain supply chain
+
 -Help company achieve social responsibility goal: promoting ethically brewing coffee beans.
+
 -For consumers trying to avoid counterfeit products. The program will provide information.
+
 -better business management through transparency and automation, inefficiencies, reduce costs, eliminate errors, improve performance, and ultimately will increase profit margins.
+
+[link1](https://en.wikipedia.org/wiki/Starbucks?msclkid=5f81c89bacab11ecb7e9525dbf0b7c8f)
