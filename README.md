@@ -22,7 +22,7 @@ Starbucks’ payment project began in 2015, which made its loyalty program digit
 Customers enjoying the simplicity of getting discount and order to go and is willing to use the online app Over 10 million users in the US alone, and more than 20% of sales are done through mobile.
 As a result, Starbucks revolution on payments brewing up loyalty and efficiency, their accumulated cash flow get banks upset.
 
-![payment](http://blogs-images.forbes.com/niallmccarthy/files/2016/08/20160801_Starbucks.jpeg)
+![payment](https://cdn.statcdn.com/Infographic/images/normal/13933.jpeg)
 
 ![Starbucks](http://blogs-images.forbes.com/niallmccarthy/files/2016/08/20160801_Starbucks.jpeg)
 
