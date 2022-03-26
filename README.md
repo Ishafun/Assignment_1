@@ -24,7 +24,7 @@ As a result, Starbucks revolution on payments brewing up loyalty and efficiency,
 
 ![payment](https://cdn.statcdn.com/Infographic/images/normal/13933.jpeg)
 
-![Starbucks](http://blogs-images.forbes.com/niallmccarthy/files/2016/08/20160801_Starbucks.jpeg)
+![Starbucks](http://blogs-images.forbes.com/niallmccarthy/files/2016/08/20160801_Starbucks.jpg)
 
 Starbucks become the most-used prepaid app in the United States today– more used than Google or Apple pay.
 Also, for cash reserve, Starbucks held $1.6 billion in balances at for year 2019. Customers already use Starbucks gift cards as the next best thing to money.
